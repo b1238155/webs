@@ -1,6 +1,7 @@
 {
   "name": "webs",
   "version": "0.1.0",
+  "homepage": "https://github.io/b1238155/webs",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
